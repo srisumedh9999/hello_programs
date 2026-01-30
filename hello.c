@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
+  printf("hello devops from c");
 {
-  printf("hello world");
+ 
+  
   return 0;
 }
 
